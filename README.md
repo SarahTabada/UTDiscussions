@@ -1,8 +1,8 @@
-# UTDiscussions 🎓
+# UTDiscussions 
 
 A modern, responsive web application designed as the premier 24/7 academic support community for UTD students. This platform facilitates peer-to-peer learning, tutoring connections, and collaborative problem-solving through organized discussion threads.
 
-## 🌟 Project Overview
+## Project Overview
 
 UTDiscussions serves as the go-to source of academic support for UTD students, featuring:
 - **Peer Tutoring Forum**: Connect students with tutors and study partners
@@ -13,11 +13,11 @@ UTDiscussions serves as the go-to source of academic support for UTD students, f
 
 ---
 
-## 🚀 Live Application
+## Live Application
 
 **Access the application at: `http://localhost:5173`**
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - **React 18** with TypeScript for type-safe development
@@ -35,52 +35,52 @@ UTDiscussions serves as the go-to source of academic support for UTD students, f
 
 ---
 
-## ✨ Features Implemented
+## Features Implemented
 
-### 🎨 **Modern UI/UX Design**
+### **Modern UI/UX Design**
 - **UTD Brand Colors**: Orange (#C75B12), Green (#00A651), Navy (#003366)
 - **Responsive Design**: Seamless experience across desktop, tablet, and mobile
 - **Professional Theme System**: Consistent typography, spacing, and color schemes
 - **Accessibility**: Proper contrast ratios and keyboard navigation
 
-### 🔐 **Authentication System**
+### **Authentication System**
 - **Login/Register Pages**: Beautiful forms with real-time validation
 - **User Context Management**: Global authentication state with React Context
 - **Protected Routes**: Secure access to authenticated features
 - **User Profiles**: Avatar support, reputation system, and activity tracking
 
-### 🏠 **Enhanced Landing Page**
+### **Enhanced Landing Page**
 - **Hero Section**: Compelling introduction with UTD branding
 - **Feature Showcase**: Interactive cards highlighting platform benefits
 - **Community Statistics**: Trust-building metrics and user engagement data
 - **Clear CTAs**: Guided user flow to browse discussions or ask questions
 
-### 💬 **Advanced Discussion System**
+### **Advanced Discussion System**
 - **Thread Browsing**: Search, filter by category, and multiple sort options
 - **Rich Thread Display**: Author info, timestamps, tags, engagement metrics
 - **Thread Details**: Full conversation view with nested replies
 - **Voting System**: Upvote/downvote functionality for quality content
 - **Best Answer Marking**: Highlight most helpful responses
 
-### ✍️ **Question Submission**
+### **Question Submission**
 - **Rich Form Interface**: Title, category selection, dynamic tag system
 - **Content Guidelines**: Helper text and best practices for quality questions
 - **Form Validation**: Client-side validation with helpful error messages
 - **Tag Management**: Dynamic tag addition/removal with visual feedback
 
-### 👤 **User Profile System**
+### **User Profile System**
 - **Comprehensive Profiles**: Avatar, stats, reputation, join date, activity feed
 - **Activity Tracking**: Recent questions, replies, and community contributions
 - **Profile Editing**: Update personal information with real-time validation
 - **User Statistics**: Question count, helpful answers, community reputation
 
-### 📱 **Mobile-First Responsive Design**
+### **Mobile-First Responsive Design**
 - **Mobile Navigation**: Collapsible menu with smooth animations
 - **Touch-Friendly Interface**: Optimized touch targets and interactions
 - **Adaptive Layouts**: Fluid layouts that work perfectly on all screen sizes
 - **Progressive Enhancement**: Core functionality works without JavaScript
 
-### 🔧 **Technical Excellence**
+### **Technical Excellence**
 - **TypeScript Integration**: Full type safety throughout the application
 - **Error Handling**: Graceful error handling with user-friendly messages
 - **Loading States**: Smooth loading indicators and skeleton screens
@@ -88,7 +88,7 @@ UTDiscussions serves as the go-to source of academic support for UTD students, f
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 UTDiscussions/
@@ -121,7 +121,7 @@ UTDiscussions/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **Node.js** (v16 or higher)
@@ -176,7 +176,7 @@ The application includes comprehensive mock data for development, allowing full 
 
 ---
 
-## 🎯 Competition Alignment
+## Competition Alignment
 
 ### WEHack General Track - "Timeless Moments Await"
 - **Past**: Access to historical questions and proven solutions
@@ -191,20 +191,20 @@ The application includes comprehensive mock data for development, allowing full 
 
 ---
 
-## 🏆 Key Achievements
+## Key Achievements
 
-✅ **Complete Frontend Implementation**: Fully functional React application  
-✅ **Modern Design System**: Professional UI with UTD branding  
-✅ **Mobile Responsive**: Works perfectly on all devices  
-✅ **Authentication Ready**: Secure user management system  
-✅ **Backend Integration**: API layer ready for Java Spring Boot  
-✅ **Type Safety**: Full TypeScript implementation  
-✅ **Performance Optimized**: Fast loading and smooth interactions  
-✅ **Accessibility Compliant**: WCAG guidelines followed  
+ **Complete Frontend Implementation**: Fully functional React application  
+ **Modern Design System**: Professional UI with UTD branding  
+ **Mobile Responsive**: Works perfectly on all devices  
+ **Authentication Ready**: Secure user management system  
+ **Backend Integration**: API layer ready for Java Spring Boot  
+ **Type Safety**: Full TypeScript implementation  
+ **Performance Optimized**: Fast loading and smooth interactions  
+ **Accessibility Compliant**: WCAG guidelines followed  
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - Real-time chat and messaging system
 - Advanced search with filters and sorting
@@ -217,7 +217,7 @@ The application includes comprehensive mock data for development, allowing full 
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature/amazing-feature`
@@ -230,23 +230,5 @@ The application includes comprehensive mock data for development, allowing full 
 ## 📄 License
 
 This project is part of the WEHack hackathon submission and is available for educational purposes.
-
----
-
-## 👥 Team
-
-**Developer**: Sarah Tabada  
-**Institution**: University of Texas at Dallas  
-**Event**: WEHack 2025  
-
----
-
-## 📞 Support
-
-For questions or support, please contact the development team or create an issue in this repository.
-
----
-
-*Built with ❤️ for the UTD community*
 
 
